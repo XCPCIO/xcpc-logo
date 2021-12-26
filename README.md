@@ -1,4 +1,4 @@
-# XCPC-Logo
+# xcpc logo
 
 Some icons of XCPC.
 
